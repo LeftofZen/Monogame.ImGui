@@ -2,7 +2,10 @@
 
 This is a Monogame wrapper for the ImGui.NET Library (https://github.com/mellinoe/ImGui.NET). Monogame.ImGui lets you build graphical interfaces for your Monogame games using a simple immediate-mode style.
 
-Disclaimer: This code wasn't written by me, I just fixed a few things and uploaded it to a GitHub and NuGet. The code of the user I got it from: https://twitter.com/BinaryEyesDev
+Disclaimer: This code wasn't written by me, I just fixed a few things and uploaded it to a GitHub and NuGet. The code of the user I got it from:
+https://github.com/dovker/Monogame.ImGui
+who got it from:
+https://twitter.com/BinaryEyesDev
 
 
 # Usage
